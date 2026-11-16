@@ -1,16 +1,21 @@
 # arabic-customer-chatbot
 
-Arabic chatbot for customer service - answers about price, delivery and payment.
+Arabic chatbot for customer service - answers in Egyptian dialect.
 
 ## What does it do?
-- Answers customer questions in Arabic (Egyptian dialect)
-- About: price, delivery, payment, working hours
+
+- Answers about: price, delivery, payment, working hours
+- Discount code: AHLA10 (10% off)
+- Return / exchange within 14 days
+- Location: Badr City, Cairo
 - Works with simple rules, no AI API needed
 
 ## How to run it?
+
 1. Open `chatbot.ipynb` in Google Colab
 2. Run all cells
-3. Try questions like: بكام؟ / الشحن بياخد قد ايه؟ / الدفع ازاي؟
+3. Try questions like: بكام؟ / الشحن بياخد قد ايه؟ / فيه خصم؟ / عايز ارجع حاجة
 
 ## Files
-- `chatbot.ipynb` : the main chatbot code
+
+- `chatbot.ipynb` - the chatbot code
